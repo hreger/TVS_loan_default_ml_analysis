@@ -1,5 +1,3 @@
-# TVS Loan Default Prediction
-
 # TVS Loan Default Predictor
 
 ## Introduction
